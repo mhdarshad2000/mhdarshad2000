@@ -7,11 +7,12 @@
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
-
+	
+- Corrently working as a software Developer
 - A passionate Mern Stack Developer
 - Learning and Researching new Stuffs
 - [Personal website](https://mhdarshad2000.github.io/personal/)
-- Corrently working as a software Developer
+- [LinkedIn](https://www.linkedin.com/in/muhammad-arshad-cm-062116188/)
 
 <br><br>
 
